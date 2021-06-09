@@ -1,0 +1,3 @@
+- Project for learning and testing purpose
+- Introduce some data structures like hashmap, list, queu, stack and tree
+- Introduce some algorithm like sorting and searching
